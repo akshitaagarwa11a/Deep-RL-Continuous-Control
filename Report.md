@@ -21,7 +21,7 @@ I have used 2 hidden layers with 512 and 256 hidden units for both actor and cri
  - EPSILON_DECAY = 1e-6
  
  ## Result
- This solved the environment in ___ episodes.
+ This solved the environment in 549 episodes.
 ## Future Scope
 Here's a list of optimizations that can be applied to the project:
 
