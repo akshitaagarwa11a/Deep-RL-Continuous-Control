@@ -35,4 +35,4 @@ Version 1: One (1) Agent
  Run the Continuous_Control.ipynb file. It uses the model in model.py file and the agent in ddpg_agemt.py file.
  
  ## Result
- This solved the environment in ___ episodes.
+ This solved the environment in 549 episodes.
